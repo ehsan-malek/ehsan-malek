@@ -71,7 +71,7 @@
 
 ### 🌐 Socials & Profiles
 
-- 🐙 [GitHub: ka1antarBAB](https://github.com/ka1antarBAB)  
+- 🐙 [GitHub: ehsan-malek](https://github.com/ehsan-malek)  
 - 🦊 [GitLab: ehasn-malek](https://gitlab.com/ehasn-malek)  
 
 ---
